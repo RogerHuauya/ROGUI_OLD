@@ -1,9 +1,9 @@
 # Metrics  
 
 
-$$
+$$$
 Metric = 100 - 80 \times \frac{err_{int}}{err_{max}} - 20 \times \frac{pot_{int}}{pot_{max}}
-$$
+$$$
 
 ### Ideal
 
